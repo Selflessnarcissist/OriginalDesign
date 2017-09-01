@@ -30,7 +30,7 @@ void setup () {
   boolean crashed = false;
   boolean wall = false;
   boolean debug = false;
-  
+  int keypressed = 0;
   
 //Main Method
 void draw () {
